@@ -14,4 +14,5 @@ How describe in your git site:
 "Dependency injector and DI-based async framework for writing modular, durable server code."
 
 Npm link: https://www.npmjs.com/package/wagner-core
+
 Git link: https://github.com/vkarpov15/wagner-core
