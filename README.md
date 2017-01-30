@@ -16,3 +16,5 @@ How describe in your git site:
 Npm link: https://www.npmjs.com/package/wagner-core
 
 Git link: https://github.com/vkarpov15/wagner-core
+
+Discussion: this "framework" is similar a dependency injection mabe per Angular1.
