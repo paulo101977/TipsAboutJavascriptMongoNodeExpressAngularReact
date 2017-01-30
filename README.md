@@ -8,7 +8,7 @@ and others Frameworks, how: Spring Boot, Ionic, Android Frameworks, Native Scrip
 
 #First Plugin:
 
-<em>1- Node Wagner:</em>
+<em><b>1- Node Wagner:</b></em>
 
 How describe in your git site:
 "Dependency injector and DI-based async framework for writing modular, durable server code."
@@ -19,7 +19,7 @@ Git link: https://github.com/vkarpov15/wagner-core
 
 Discussion: this "framework" is similar a dependency injection mabe per Angular1.
 
-<em>2- Node Consign</em>
+<em><b>2- Node Consign</b></em>
 
 Other great api to NodeJs is Consign, how you see below (in terms of same creator):
 
