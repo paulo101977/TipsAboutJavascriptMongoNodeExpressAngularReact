@@ -6,7 +6,7 @@ We can explain here a few tips about Javascript, Mongo, Node, Express, Angular, 
 and others Frameworks, how: Spring Boot, Ionic, Android Frameworks, Native Script, ...
 
 
-#First Plugin:
+#List of Plugins:
 
 <em><b>1- Node Wagner:</b></em>
 
