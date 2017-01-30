@@ -31,3 +31,9 @@ Consign can be used to autoload models, routes, schemas, configs, controllers, o
 
 
 Git hub: https://github.com/jarradseers/consign
+
+3- Jsdom:
+
+Incredible api to recreate a virtual dom in the server side:
+
+https://www.npmjs.com/package/jsdom
