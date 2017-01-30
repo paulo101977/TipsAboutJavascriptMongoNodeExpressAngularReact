@@ -32,7 +32,7 @@ Consign can be used to autoload models, routes, schemas, configs, controllers, o
 
 Git hub: https://github.com/jarradseers/consign
 
-<em><b>3- Jsdom:
+<em><b>3- Jsdom:</b></em>
 
 Incredible api to recreate a virtual dom in the server side:
 
