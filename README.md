@@ -8,7 +8,7 @@ and others Frameworks, how: Spring Boot, Ionic, Android Frameworks, Native Scrip
 
 #List of Plugins:
 
-<em><b>1- Node Wagner:</b></em>
+<em><b>1- Wagner Core:</b></em>
 
 How describe in your git site:
 "Dependency injector and DI-based async framework for writing modular, durable server code."
@@ -37,3 +37,14 @@ Git hub: https://github.com/jarradseers/consign
 Incredible api to recreate a virtual dom in the server side:
 
 https://www.npmjs.com/package/jsdom
+
+
+<em><b>4- gulp-html2js:</b></em>
+
+This api converts html to javascript. The user is best for angular and template's load, how meteor, ...
+
+How describe below:
+
+"Gulp plugin for converting AngularJS templates to JavaScript".
+
+Link: https://www.npmjs.com/package/gulp-html2js
